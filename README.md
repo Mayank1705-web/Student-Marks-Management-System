@@ -31,5 +31,5 @@ The Student Marks Analysis System is a Python-based application that stores stud
 - Coaching institutes  
 - Academic analysis systems  
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates real-world Python usage for data management, automation, and visualization, making it ideal for students and beginners.
